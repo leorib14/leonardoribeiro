@@ -7,15 +7,15 @@ a {
   cursor: pointer;
 }
 
-a:active, 
-a:focus, 
+a:active,
+a:focus,
 a:hover {
   color: #d03b39;
 }
 
-*/ 
+*/
 
-/* nav 
+/* nav
 
 .navbar-light .navbar-nav>.nav-item>.nav-link,
 .navbar-light .navbar-nav>.nav-item>.nav-link:focus,
@@ -24,8 +24,8 @@ a:hover {
   font-weight: 700;
 }
 
-.navbar-light .navbar-nav > li.nav-item > a.active, 
-.navbar-light .navbar-nav > li.nav-item > a.active:focus, 
+.navbar-light .navbar-nav > li.nav-item > a.active,
+.navbar-light .navbar-nav > li.nav-item > a.active:focus,
 .navbar-light .navbar-nav > li.nav-item > a.active:hover {
   font-weight: 700;
   transition: color .2s ease;
@@ -47,14 +47,14 @@ a:hover {
   letter-spacing: .08em;
 }
 
-.navbar-light .navbar-brand:focus, 
+.navbar-light .navbar-brand:focus,
 .navbar-light .navbar-brand:hover {
   color: #d03b39;
 }
 
 */
 
-/* text 
+/* text
 
 h1, h2, h3, h4, h5, h6 {
   color: #333;
@@ -72,7 +72,7 @@ h1 {
 
 */
 
-/* home page 
+/* home page
 
 .portrait-title h2 {
   color: #333;
@@ -91,7 +91,7 @@ h1 {
 }
 
 .home-section:not(:first-of-type) {
-  padding: 25px 0 50px 0; 
+  padding: 25px 0 50px 0;
 }
 
 */
@@ -132,22 +132,22 @@ h1 {
 /* code */
 /* https://github.com/rstudio/blogdown/blob/master/docs/02-hugo.Rmd */
 
-/* 
+/*
 pre {
   border: 1px solid #fff;
   box-shadow: 5px 5px 5px #eee;
   padding: 0.25em;
   background: #fff;
   overflow-x: auto;
-  border-radius: 0px; 
+  border-radius: 0px;
 }
 
-pre code { 
-  background: none; 
+pre code {
+  background: none;
   font-size: 0.8rem;
 }
 
-code { 
+code {
   color: #d03b39;
   background: #fff;
   font-size: 0.9em;
@@ -181,7 +181,7 @@ div.alert-warning > div:first-child::before {
   color: #333;
   background-color: #fff;
   border-top: 2px solid #e13d3d;
-  border-radius: 0px; 
+  border-radius: 0px;
   border-right-style: none;
   border-bottom-style: none;
   border-left-style: none;
@@ -197,7 +197,7 @@ div.alert.alert-warning {
   color: #d03b39;
   background-color: #fdf4f4;
   border-top: 2px solid #e13d3d;
-  border-radius: 0px; 
+  border-radius: 0px;
   border-right-style: none;
   border-bottom-style: none;
   border-left-style: none;
@@ -210,12 +210,12 @@ div.alert.alert-warning {
 
 /*
 .btn.btn-sm, .btn-group-sm > .btn {
-  border-radius: 0px; 
+  border-radius: 0px;
   font-size: 0.8rem;
-} 
+}
 
 .btn.btn-outline-primary.my-1.mr-1 {
-  border-radius: 0px; 
+  border-radius: 0px;
   font-size: 0.8rem;
 }
 
@@ -281,11 +281,11 @@ hr {
     margin-right: auto;
  }
 
-/* 
+/*
 .home-section.wg-experience .card-body {
 	padding: .5rem;
 }
- 
+
 .home-section.wg-experience .card .card-text{
   padding: 0;
 }
@@ -315,7 +315,7 @@ iframe {
 	color: #e13d3d;
 	background-color: #fbf9f4;
 	border: 1px solid #e13d3d;
-  border-radius: 0px; 
+  border-radius: 0px;
 
 }
 
@@ -339,7 +339,7 @@ iframe {
 
 /* dark fixes */
 
-
+/*
 
 .dark .pagination li > a, .pagination li > span {
 	border: 1px solid #e13d3d;
@@ -349,8 +349,10 @@ iframe {
 	background-color: #e13d3d;
 }
 
-.dark a:active, 
-.dark a:focus, 
+.dark a:active,
+.dark a:focus,
 .dark a:hover {
 	color: #fff;
 }
+
+*/
