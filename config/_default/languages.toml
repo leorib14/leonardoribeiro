@@ -25,7 +25,7 @@
      weight = 10
 
    [[pt.menu.main]]
-     name = "Falas"
+     name = "Apresentações"
      url = "#talks"
      weight = 20
 
@@ -41,7 +41,7 @@
      weight = 40
 
    [[pt.menu.main]]
-     name = "Sobre / Contato"
+     name = "Bio / Contato"
      url = "/contact"
      weight = 50
 
