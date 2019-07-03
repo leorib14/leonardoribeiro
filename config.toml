@@ -68,5 +68,5 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # Permalinks
 [permalinks]
-  posts = "/post/:year-:month-:slug/"
+  posts = "/post/:year-:slug/"
   talks = "/talk/:year-:slug/"
