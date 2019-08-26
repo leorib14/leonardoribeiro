@@ -1,29 +1,29 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: Tenho interesse nos ODS, Desenvolvimento Sustentável e Gestão Ambiental Empresarial
   matter.
 education:
   courses:
-  - course: MsC in Environmental Geology
-    institution: Federal University of Ouro Preto
+  - course: MsC em Geologia 
+    institution: Universidade Federal de Ouro Preto
     year: 2014
-  - course: BSC in Environmental and Sanitary Engineering
-    institution: Federal University of Santa Catarina 
+  - course: BSC em Engenharia Sanitária e Ambiental
+    institution: Universidade Federal de Santa Catarina 
     year: 2002
-  - course: Technical license as Radioprotection Supervisor
-    institution: Nuclear Energy National Comission
+  - course: Supervisor de Radioproteção - Medidor Nuclear
+    institution: Comissão Nacional de Energia Nuclear
     year: 2008
 email: "leorib14@gmail.com"
 interests:
-- Sustainable Development
-- Exploratory Data Analysis
-- Environmental Management
+- Desenvolvimento Sustentável
+- Análise Exploratória de Dados
+- Gestão Ambiental Empresarial
 name: Leonardo Guimarães Ribeiro
 organizations:
 - name: ArcelorMittal Brasil
   url: "http://brasil.arcelormittal.com.br/en/home"
-role: Environmental Specialist
+role: Especialista em Meio Ambiente
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,7 +46,7 @@ user_groups:
 - Visitors
 ---
 
-Sou especialista em sustentabilidade na Gerência Geral de Sustentabilidade da ArcelorMittal Brasil. Busco auxiliar as unidades industriais a implantar programas, projetos e ações que os auxiliem à alcançar os objetivos de sustentabilidade do grupo. Minhas responsabilidades incluem gestão hídrica, gerenciamento de áreas contaminadas, economia circular, avaliação de ciclo de vida, declaração ambiental de proudto e radioproteção.
+Sou especialista em meio ambiente da ArcelorMittal Brasil. Busco auxiliar as unidades industriais a implantar programas, projetos e ações que os auxiliem a alcançar os objetivos de sustentabilidade do grupo. Minhas responsabilidades incluem gestão hídrica, gerenciamento de áreas contaminadas, economia circular, avaliação de ciclo de vida, declaração ambiental de produtos, radioproteção e representação institucional.
 
 Tenho muito prazer em analisar dados e definir estratégias que busquem aprimorar as práticas sustentáveis no ambiente empresarial.
 

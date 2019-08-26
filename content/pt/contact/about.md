@@ -50,17 +50,35 @@ subtitle = ""
 
 
 
+Nasci em São Paulo, mas antes de completar 1 ano já morava em [Florianópolis](https://wikitravel.org/en/Florianopolis). Minha conexão e origens são deste lugar maravilhoso, cuja presença do mar é constante. 
 
-I am originally from São Paulo, Brazil, but I was mainly raised in [Florianópolis](https://wikitravel.org/en/Florianopolis), an amazing island in the South of my country. I have graduated at [UFSC](https://ufsc.br/). Just before graduation I got the opportunity to study one year at [École Nationale Supérieure des Mines de Nantes] (https://fr.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nantes), currently known as [IMT Atlantique](https://www.imt-atlantique.fr/en) in France. After college, I studied contaminated site assessment, receiving my Ms.C. from [Universidade Federal de Ouro Preto](https://ufop.br/) on Environmental Geology. I am now a environmental specialist at [ArcelorMittal Brasil](http://brasil.arcelormittal.com.br/). Prior to that, I was an associate at [COBRAPE](http://www.cobrape.com.br/).
+
 
 <img src="floripa.jpg" class="center-block" alt="Hometown - Florianópolis" style="width:60%;height:60%;">
 
 
 
-My [research](https://profiles.impactstory.org/u/0000-0002-8082-1890) focused on health-related applications of Natural Language Processing-based methods, and was funded by the National Institutes of Health, the Oregon Clinical and Translational Research Institute, and Autism Speaks. I have written numerous scientific [publications](/publication) on autism and neurodevelopmental disorders and have presented my research at over 25 international conferences.
+Estudei Engenharia Sanitária e Ambiental na [UFSC](https://ufsc.br/). Um pouco antes de me formar, tive a oportunidade de estudar um ano na [École Nationale Supérieure des Mines de Nantes] (https://fr.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nantes), atualmente conhecida coom [IMT Atlantique](https://www.imt-atlantique.fr/en) na França. 
 
-<img src="floripa.jpg" class="center-block" alt="Hometown - Florianópolis" style="width:60%;height:60%;">
 
-While at OHSU, I became an avid user of the statistical programming language R, both in the lab as a Principal Investigator and in the classroom as a professor. I developed a passion for programming and education, and during my tenure at OHSU I developed and taught multiple graduate-level [data science courses](/categories/course/) and [workshops](/categories/workshop/). I also trained the [Office of Research Impact at the Oregon Clinical & Translational Research Institute](https://www.ohsu.edu/xd/research/centers-institutes/octri/) to use R, and consulted with the University of Oregon College of Education on the development of a [graduate data science specialization track](https://education.uoregon.edu/). I received an [Excellence in Education award](https://www.ohsu.edu/school-of-medicine/honors-and-awards-ceremony-2018-school-medicine) from OHSU in 2018.
 
-You can follow my current work for [RStudio Education on GitHub](https://github.com/rstudio-education). In my free time, I love spending time with my family and my two-year-old daughter. Thank you so much for reading.
+Após minha gradução, fiz alguns trabalhos de consultoria em licenciamento ambiental até voltar para São Paulo e trabalhar na na [COBRAPE](http://www.cobrape.com.br/) em projetos relacionados a modelagem em qualidade de água.
+
+
+
+De São Paulo, fui para Minas trabalhar na [ArcelorMittal Brasil](http://brasil.arcelormittal.com.br/). Mudei-me em 2005 e todos sempre me perguntam como eu pude sair de Floripa. Bem, nossas escolhas quase nunca geram os resultados que pretendemos, há tantas variáveis que não controlamos que felizmente não consigo responder à pergunta. O que posso dizer é que hoje compreendo os valores de Minas Gerais, e me sinto conectado a uma cultura maravilhosa que dá muito valor ao *terroir*. 
+
+
+
+Minas também me deu a oportunidade de uma nova família. Minha mulher (e logo logo minha criança!), com cachorros, coelhos, galinhas e muitas árvores!
+
+Durante este período conheci muitas pessoas, obtive experiências profissionais e humanas. Tive também a oportunidade de fazer mestrado na [Universidade Federal de Ouro Preto](https://ufop.br/) em Geologia Ambiental, com foco em Gerenciamento de Áreas Contaminadas. 
+
+
+
+
+Gosto de temas relacioandos à sustentabilidade e tenho certo desejo de contribuir em áreas que considero ter maior aptidão, dentre as quais posso citar Avaliação de Ciclo de Vida, Economia Circular, Áreas Contaminadas, Gestão Hídrica e Radioatividade.
+
+
+
+No meu tempo livre gosto de fazer cerveja, caminhadas e tocar violão (cada vez mais raro). Poderia falar que também faço capoeira, mas acho que nesse caso não se trata apenas de um hobby e sim de um processo que me permite ter um visão histórica e humana diferenciada.
