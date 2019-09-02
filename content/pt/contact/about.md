@@ -50,7 +50,7 @@ subtitle = ""
 
 
 
-Nasci em São Paulo, mas antes de completar 1 ano já morava em [Florianópolis](https://wikitravel.org/en/Florianopolis). Minha conexão e origens são deste lugar maravilhoso, cuja presença do mar é constante. 
+Nasci em São Paulo, mas antes de completar 1 ano já morava em [Florianópolis](https://wikitravel.org/en/Florianopolis). Minha conexão e origens são deste lugar, cuja presença do mar é constante. 
 
 
 
@@ -58,27 +58,29 @@ Nasci em São Paulo, mas antes de completar 1 ano já morava em [Florianópolis]
 
 
 
-Estudei Engenharia Sanitária e Ambiental na [UFSC](https://ufsc.br/). Um pouco antes de me formar, tive a oportunidade de estudar um ano na [École Nationale Supérieure des Mines de Nantes] (https://fr.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nantes), atualmente conhecida coom [IMT Atlantique](https://www.imt-atlantique.fr/en) na França. 
+Estudei Engenharia Sanitária e Ambiental na [UFSC](https://ufsc.br/). Um pouco antes de me formar, tive a oportunidade de estudar um ano na [École Nationale Supérieure des Mines de Nantes] (https://fr.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nantes), atualmente conhecida como [IMT Atlantique](https://www.imt-atlantique.fr/en) na França. 
 
 
 
-Após minha gradução, fiz alguns trabalhos de consultoria em licenciamento ambiental até voltar para São Paulo e trabalhar na na [COBRAPE](http://www.cobrape.com.br/) em projetos relacionados a modelagem em qualidade de água.
+Após minha gradução, fiz alguns trabalhos de consultoria em licenciamento ambiental até voltar para São Paulo e trabalhar na [COBRAPE](http://www.cobrape.com.br/) em projetos relacionados a modelagem em qualidade de água.
 
 
 
-De São Paulo, fui para Minas trabalhar na [ArcelorMittal Brasil](http://brasil.arcelormittal.com.br/). Mudei-me em 2005 e todos sempre me perguntam como eu pude sair de Floripa. Bem, nossas escolhas quase nunca geram os resultados que pretendemos, há tantas variáveis que não controlamos que felizmente não consigo responder à pergunta. O que posso dizer é que hoje compreendo os valores de Minas Gerais, e me sinto conectado a uma cultura maravilhosa que dá muito valor ao *terroir*. 
+De São Paulo, fui para Minas trabalhar na [ArcelorMittal Brasil](http://brasil.arcelormittal.com.br/). Mudei-me em 2005 e todos sempre me perguntam como eu pude sair de Floripa. Bem, nossas escolhas quase nunca geram os resultados que pretendemos, há muitas variáveis que não controlamos e felizmente não consigo responder à pergunta. O que posso dizer é que hoje compreendo os valores de Minas Gerais, e me sinto conectado a uma cultura maravilhosa que dá muito valor ao *terroir*. 
 
 
 
 Minas também me deu a oportunidade de uma nova família. Hoje, a Alessandra e eu (e logo logo nosso bebê) vivemos felizes com nossos cachorros, coelhos, galinhas e muitas árvores! 
+
+<img src="../../img/huayhuash.jpg" class="center-block" alt="Bicicleta" style="width:60%;height:60%;">
 
 Durante este período conheci muitas pessoas, obtive experiências profissionais e humanas. Tive também a oportunidade de fazer mestrado na [Universidade Federal de Ouro Preto](https://ufop.br/) em Geologia Ambiental, com foco em Gerenciamento de Áreas Contaminadas. 
 
 
 
 
-Gosto de temas relacinados à sustentabilidade e tenho certo desejo de contribuir em áreas que considero ter maior aptidão, dentre as quais posso citar Avaliação de Ciclo de Vida, Economia Circular, Áreas Contaminadas, Gestão Hídrica e Radioatividade.
+Gosto de temas relacinados à sustentabilidade e tenho desejo de contribuir em áreas que considero ter maior aptidão, dentre as quais posso citar Avaliação de Ciclo de Vida, Economia Circular, Áreas Contaminadas, Gestão Hídrica e Radioatividade.
 
 
 
-No meu tempo livre gosto de fazer cerveja, caminhadas e tocar violão (cada vez mais raro). Poderia falar que também faço capoeira, mas acho que nesse caso não se trata apenas de um hobby e sim de um processo que me permite ter um visão histórica e humana diferenciada.
+No meu tempo livre gosto de fazer cerveja, caminhadas e tocar violão (cada vez mais raro). Pratico capoeira há mais de 20 anos e posso dizer que não se trata apenas de um hobby e sim de um processo que me permite ter um visão histórica e humana diferenciada.
