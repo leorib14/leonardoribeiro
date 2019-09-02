@@ -72,6 +72,8 @@ De São Paulo, fui para Minas trabalhar na [ArcelorMittal Brasil](http://brasil.
 
 Minas também me deu a oportunidade de uma nova família. Hoje, a Alessandra e eu (e logo logo nosso bebê) vivemos felizes com nossos cachorros, coelhos, galinhas e muitas árvores! 
 
+<img src="../../img/huayhuash.jpg" class="center-block" alt="Bicicleta" style="width:60%;height:60%;">
+
 Durante este período conheci muitas pessoas, obtive experiências profissionais e humanas. Tive também a oportunidade de fazer mestrado na [Universidade Federal de Ouro Preto](https://ufop.br/) em Geologia Ambiental, com foco em Gerenciamento de Áreas Contaminadas. 
 
 
