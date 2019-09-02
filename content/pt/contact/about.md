@@ -70,14 +70,14 @@ De São Paulo, fui para Minas trabalhar na [ArcelorMittal Brasil](http://brasil.
 
 
 
-Minas também me deu a oportunidade de uma nova família. Minha mulher (e logo logo minha criança!), com cachorros, coelhos, galinhas e muitas árvores!
+Minas também me deu a oportunidade de uma nova família. Hoje, a Alessandra e eu (e logo logo nosso bebê) vivemos felizes com nossos cachorros, coelhos, galinhas e muitas árvores! 
 
 Durante este período conheci muitas pessoas, obtive experiências profissionais e humanas. Tive também a oportunidade de fazer mestrado na [Universidade Federal de Ouro Preto](https://ufop.br/) em Geologia Ambiental, com foco em Gerenciamento de Áreas Contaminadas. 
 
 
 
 
-Gosto de temas relacioandos à sustentabilidade e tenho certo desejo de contribuir em áreas que considero ter maior aptidão, dentre as quais posso citar Avaliação de Ciclo de Vida, Economia Circular, Áreas Contaminadas, Gestão Hídrica e Radioatividade.
+Gosto de temas relacinados à sustentabilidade e tenho certo desejo de contribuir em áreas que considero ter maior aptidão, dentre as quais posso citar Avaliação de Ciclo de Vida, Economia Circular, Áreas Contaminadas, Gestão Hídrica e Radioatividade.
 
 
 

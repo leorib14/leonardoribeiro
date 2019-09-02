@@ -46,10 +46,10 @@ user_groups:
 - Visitors
 ---
 
-Sou especialista em meio ambiente da ArcelorMittal Brasil. Busco auxiliar as unidades industriais a implantar programas, projetos e ações que os auxiliem a alcançar os objetivos de sustentabilidade do grupo. Minhas responsabilidades incluem gestão hídrica, gerenciamento de áreas contaminadas, economia circular, avaliação de ciclo de vida, declaração ambiental de produtos, radioproteção e representação institucional.
+Sou engenheiro sanitarista e ambiental com experiência em gestão ambiental empresarial. Atualmente trabalho com gestão hídrica, gerenciamento de áreas contaminadas, economia circular, avaliação de ciclo de vida, declaração ambiental de produtos, radioproteção, cadeia de suprimentos e representação institucional.
 
-Tenho muito prazer em analisar dados e definir estratégias que busquem aprimorar as práticas sustentáveis no ambiente empresarial.
+Tenho interesse pessoal em análise de dados e definição de estratégias que busquem aprimorar as práticas sustentáveis no ambiente empresarial.
 
 Sou capoeira há mais de 20 anos e atualmente faço parte de um projeto social que busca educar crianças e adultos por meio desta manifestação cultural, dentro dos valores humanos de cultura e cidadania. 
 
-No meu tempo livre, adoro fazer caminhadas (trekking) com a Alessandra, cuidar dos meus animais de estimação (cachorros, coelhos, galinhas) e fazer cerveja.
+No meu tempo livre gosto de estar com minha família, amigos e animais de estimação. Ocasionalmente faço cervejas (supreendentemente boas).
