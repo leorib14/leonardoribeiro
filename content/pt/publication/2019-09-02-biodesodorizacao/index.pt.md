@@ -10,7 +10,7 @@ date: "2010-12-08T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: 'Image credit: Leonardo G. Ribeiro'
+  caption: 'Crédito da imagem: Leonardo G. Ribeiro'
   focal_point: ""
   preview_only: false
 projects:

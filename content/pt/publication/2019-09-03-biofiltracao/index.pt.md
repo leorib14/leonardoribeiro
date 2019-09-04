@@ -19,7 +19,7 @@ projects:
 publication: Em *Congresso Brasileiro de Engenharia Sanitária e Ambiental*
 publication_types:
 - "1"
-publishDate: "2010-12-08T00:00:00Z"
+publishDate: "2001-12-08T00:00:00Z"
 summary: Aplicação de biofiltro com leito de turfa para o tratamento das emissões odorantes provenientes e um reator anaeróbio.
 tags:
 - Odor
