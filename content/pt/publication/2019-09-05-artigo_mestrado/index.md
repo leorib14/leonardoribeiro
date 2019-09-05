@@ -18,7 +18,7 @@ publication_types:
 publishDate: "2015-04-27T00:00:00Z"
 summary: Aplicação de análise exploratória e espacial de dados hidrogeoquímicos para identificação de contaminação pretéria de metais 
 tags:
-- EScória
+- Escória
 - Pó
 - Forno elétrico a arco
 - Siderurgia
