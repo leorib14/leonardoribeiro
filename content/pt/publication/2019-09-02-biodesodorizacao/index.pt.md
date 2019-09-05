@@ -6,7 +6,7 @@ authors:
 - Delmira Beatriz Wolff
 - Cleide Martins de Carvalho 
 - Rejane Heleno Ribeiro da Costa
-date: "2010-12-08T00:00:00Z"
+date: "2000-12-08T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -18,7 +18,7 @@ projects:
 publication: Em *XXVII Congresso Interamericano de Engenharia Sanitária e Ambiental*
 publication_types:
 - "1"
-publishDate: "2010-12-08T00:00:00Z"
+publishDate: "2000-12-08T00:00:00Z"
 summary: Neste trabalho estuda-se a eficiência da remoção de odores decorrentes do tratamento de efluentes sanitários por meio de biodesodorização.
 tags:
 - Odor
