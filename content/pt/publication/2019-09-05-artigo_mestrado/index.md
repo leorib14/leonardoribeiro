@@ -18,7 +18,7 @@ publication_types:
 publishDate: "2015-04-27T00:00:00Z"
 summary: Aplicação de análise exploratória e espacial de dados hidrogeoquímicos para identificação de contaminação pretéria de metais 
 tags:
-- EScória
+- Escória
 - Pó
 - Forno elétrico a arco
 - Siderurgia
@@ -26,6 +26,6 @@ tags:
 - Análise exploratória de dados
 - Análise espacial de dados
 title: Aplicação de Análise exploratória e análise espacial de dados para investigação de contaminação de metais na água subterrânea provenientes de escória e pó de forno elétrico a arco
-url_pdf: https://link.springer.com/article/10.1007/s11270-015-2441-3
+url_pdf: https://doi.org/10.1007/s11270-015-2441-3
 url_project: ""
 ---
