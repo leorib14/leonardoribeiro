@@ -13,7 +13,7 @@ projects:
 - internal-project
 publication: Em *Universidade Federal de Ouro Preto*
 publication_types:
-- "1"
+- "7"
 publishDate: "2014-01-01T00:00:00Z"
 summary: Dissertação de mestrado sobre gestão de áreas contaminadas com foco em análise exploratória e espacial de dados 
 tags:
