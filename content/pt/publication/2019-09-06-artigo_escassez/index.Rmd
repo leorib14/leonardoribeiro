@@ -25,7 +25,7 @@ tags:
 - Escassez Hídrica
 - Água
 - Indústria Siderúrgica
-title: Crise hídrica: evolução dos decretos estaduais sobre escassez hídrica em Minas Gerais
-url_pdf:http://www.ufjf.br/srhps/files/2018/09/A0009.pdf
+title: Crise hídrica - evolução dos decretos estaduais sobre escassez hídrica em Minas Gerais
+url_pdf: http://www.ufjf.br/srhps/files/2018/09/A0009.pdf
 url_project: ""
 ---
