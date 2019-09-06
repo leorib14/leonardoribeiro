@@ -11,7 +11,7 @@ doi: "https://doi.org/10.5151/1516-392X-31829"
 featured: true
 image:
   caption: "Foto de Erda Estremera - Unsplash"
-  focal_point: ""
+  focal_point: "Top"
   preview_only: false
 projects:
 - internal-project
